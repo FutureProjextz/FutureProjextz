@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a beginner in **Data Analysis** and I’m pass
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on: **Exploring various data analysis projects and improving my skills in Python, Pandas, and SQL.**
-- 🌱 I’m currently learning: **Data visualization (Matplotlib, Seaborn), machine learning basics, and exploring datasets on platforms like Kaggle.**
+- 🌱 I’m currently learning: **Data visualization (Matplotlib, Seaborn), and exploring datasets on platforms like Kaggle.**
 - 👯 I’m looking to collaborate on: **Beginner-friendly data analysis projects, especially those that involve real-world data or public datasets.**
 - 🤔 I’m looking for help with: **Tips on improving my Python scripting and learning how to present data insights effectively.**
 - 💬 Ask me about: **Basic data analysis techniques, data cleaning, and using Jupyter notebooks for analysis.**
